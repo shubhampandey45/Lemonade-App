@@ -3,8 +3,7 @@
 ## *Shubham Pandey*
 
 **Lemonade App** prompts the user to click on the image displayed on the screen. When the image is clicked the image and description both changes.
-* User navigates through the process of![6](https://github.com/shubhampandey45/Lemonade-App/assets/105074712/7f8153dc-09b5-4c1f-acf9-ed68c5b90479)
- making lemonade in 4 steps.
+* User navigates through the process of making lemonade in 4 steps.
 
 Time spent: **10** hours in total
 
@@ -27,7 +26,7 @@ The following **required** functionaliy is completed:
 
 ## Video Walkthrough
 
-!(https://github.com/shubhampandey45/Lemonade-App/blob/master/giphy.mp4)
+![](https://github.com/shubhampandey45/Lemonade-App/blob/master/giphy.gif)
 
 
 ## License
