@@ -25,11 +25,7 @@ The following **required** functionaliy is completed:
 * Learned how to use image and string as parameter in a function.
 
 ## Video Walkthrough
-<<<<<<<< HEAD
 
-
-=======
->>>>>>>>> origin/master
 ![](https://github.com/shubhampandey45/Lemonade-App/blob/master/giphy.mp4)
 
 
